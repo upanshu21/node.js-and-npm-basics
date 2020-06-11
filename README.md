@@ -1,6 +1,7 @@
-#Basics of Node.js and NPM
 
-##Initializing package.json
+# Basics of Node.js and NPM
+
+## Initializing package.json
 
 cd into the directory and run
 
@@ -11,7 +12,7 @@ Follow along the prompts and answer the questions as follows: accept the default
 <br>
 -This should create a package.json file in your folder.
 
-##Installing an NPM Module
+## Installing an NPM Module
 
 -Install an NPM module, lite-server, that allows you to run a Node.js based development web server and serve up your project files. To do this, type the following at the prompt:
 
@@ -45,7 +46,7 @@ npm install lite-server --save-dev
 }
 ```
 
-##start the development server by using
+## start the development server by using
 
 ```
 npm start
